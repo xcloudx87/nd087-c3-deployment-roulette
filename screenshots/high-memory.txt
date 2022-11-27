@@ -1,0 +1,4 @@
+NAME                           CPU(cores)   MEMORY(bytes)
+hello-world-7957b9db4f-98zdv   1m           19Mi
+canary-v2-7b4d74dcb9-2wvkb     0m           3Mi
+canary-v1-84676f5bb7-bf5h9     0m           3Mi
